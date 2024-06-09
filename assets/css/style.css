@@ -1,0 +1,25 @@
+img{
+    height: 200px;
+}
+.contenedor{
+    display: flex;
+
+}
+select{
+    margin: 5px;
+    padding: 5px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+.bordeRojo{
+    border: 2px solid red;
+}
+p{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
